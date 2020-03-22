@@ -1,0 +1,9 @@
+core/.vs/
+core/core/x64/
+core/x64/
+test/.vs/
+test/test/x64/
+test/x64/
+bmf_import/bmf_import/.vs/
+bmf_import/bmf_import/obj/x64/
+bmf_import/bmf_import/x64/
